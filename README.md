@@ -1,80 +1,68 @@
 # IBM_Explore
 
-## 🚀 About the Project
+Public repository where I store projects, labs, notes and experiments around IBM technologies and enterprise systems.
 
-Welcome to **IBM_Explore** — a public repository dedicated to exploring the world of IBM technologies through hands-on projects, technical labs, experiments, and development environments.
-
-This repository focuses on enterprise computing ecosystems such as:
+## Topics
 
 - IBM i
-- IBM Z / Mainframe
-- DB2
-- RPGLE
-- CL
-- COBOL
+- IBM Z / z/OS
+- VSAM
+- Zowe
+- CLI tools
+- Linux
+- CMS / VM
+- TSO
+- USS
+- Assembler
 - SQL
-- 5250 Green Screen
-- Automation & Infrastructure
-- Enterprise Development Practices
-
-The goal of this repository is to document learning, share experiments, and build real technical solutions around IBM systems and enterprise technologies.
-
----
-
-## 🎯 Vision
-
-IBM_Explore aims to:
-
-- Explore enterprise technologies deeply
-- Build practical IBM i and IBM Z projects
-- Learn legacy and modern integration approaches
-- Share technical knowledge publicly
-- Experiment with automation, databases, and infrastructure
-- Bridge traditional systems with modern development workflows
-
----
-
-## 🛠 Technologies & Environments
-
-### IBM Ecosystem
-- IBM i (AS/400)
-- IBM Z
-- Db2 for i
-- 5250 Terminal
-- Navigator for i
-
-### Programming Languages
-- RPGLE
-- CL
 - COBOL
-- SQL
-- Python
-- Shell scripting
+- REXX
+- JCL
+- IBM RACF
+- Mainframe environments
+- Middleware & automation
+- Enterprise infrastructure
 
-### Development Tools
-- VS Code
-- ACS (Access Client Solutions)
-- Git & GitHub
+## Purpose
 
----
+This repository is mainly used to:
+- learn IBM technologies,
+- practice on enterprise systems,
+- experiment with mainframe environments,
+- document projects and technical research,
+- improve low-level and system knowledge.
 
-## 📂 Repository Structure
+## Content
+
+You may find:
+- COBOL programs
+- JCL jobs
+- REXX scripts
+- SQL queries
+- Assembler experiments
+- z/OS labs
+- RACF notes
+- VSAM tests
+- Linux and USS scripts
+- Zowe CLI usage
+- IBM i projects
+- automation scripts
+- infrastructure-related work
+
+## Structure
 
 ```bash
 IBM_Explore/
-│
-├── IBM_i/
-│   ├── RPGLE/
-│   ├── CL/
-│   ├── SQL/
-│   └── 5250/
-│
-├── IBM_Z/
-│   ├── COBOL/
-│   ├── JCL/
-│   └── Labs/
-│
-├── DB2/
-├── Automation/
-├── Scripts/
-└── Documentation/
+├── zos/
+├── cobol/
+├── jcl/
+├── rexx/
+├── assembler/
+├── vsam/
+├── racf/
+├── sql/
+├── uss/
+├── linux/
+├── zowe/
+├── ibmi/
+└── docs/
